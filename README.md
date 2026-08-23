@@ -3,4 +3,6 @@
 > - 🌱 I’m currently learning Python, Logic and English
 > - 💞️ I’m looking to collaborate on Emulator Project
 
-![GibsonLyrio's GitHub stats](https://github-stats-extended.vercel.app/api?username=GibsonLyrio&theme=radical)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
