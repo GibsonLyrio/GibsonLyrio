@@ -109,7 +109,7 @@ I build practical applications using **Python, Django, APIs, databases and autom
 
 ![GitHub Stats](./profile/stats.svg)
 
-![Top Languages](./profile/top-langs.svg)
+![Top Languages](https://github-stats-extended-indol.vercel.app/api/top-langs/?username=GibsonLyrio)
 
 ![Pinned Projects](./profile/pin-stats-organization-github-readme-stats.svg)
 
