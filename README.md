@@ -63,7 +63,7 @@ Outside the web world, I'm fascinated by **computer architecture, emulation, ope
 
 ### 📊 GitHub Stats
   <p align="left">
-    <img src="./profile/stats.svg" width="48%" />
+    <img src="https://github-stats-extended-indol.vercel.app/api?username=GibsonLyrio&show_icons=true" />
   </p>
   
   <p align="left">
